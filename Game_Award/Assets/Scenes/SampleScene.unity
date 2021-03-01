@@ -113,6 +113,7 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
+<<<<<<< HEAD:Game_Award/Assets/Scenes/SampleScene.unity
 <<<<<<< HEAD:Game_Award/Assets/Scenes/Game.unity
 --- !u!1 &15608295
 GameObject:
@@ -212,6 +213,9 @@ Transform:
 =======
 --- !u!1 &705507993
 >>>>>>> parent of d40b011 (test changed.):Game_Award/Assets/Scenes/SampleScene.unity
+=======
+--- !u!1 &705507993
+>>>>>>> parent of 5623353 (naokl331/マスターからのマージプル要求#1):Game_Award/Assets/Scenes/Game.unity
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
